@@ -1,0 +1,73 @@
+# siteshot就是站点缩略图的链接
+# list_style设置友链样式，不设置默认为butterfly
+
+- class_name: 媒体工具
+  class_desc: 优秀的在线下载和处理
+  list_style: butterfly
+  link_list:
+    - name: 无损生活
+      link: https://flac.life/
+      descr: 全网无损音乐下载
+    - name: 加密格式解锁
+      link: https://api.zhheo.com/unlockmusic/
+      descr: 解锁加密格式的音乐文件
+    - name: B站封面
+      link: https://bilicover.magecorn.com/
+      descr: 提取bilibili的视频封面图片
+    - name: 网易见外
+      link: https://jianwai.youdao.com/
+      descr: 免费视频生成字幕
+    - name: 字幕转换
+      link: https://crossub.xiaowude.com/
+      descr: srt/lrc字幕转换成fcpxml
+    - name: 哔哩哔哩视频解析
+      link: https://bilibili.iiilab.com/
+      descr: 解析b站的视频
+
+- class_name: 开发工具
+  class_desc: 好用的开发相关网站
+  list_style: butterfly
+  link_list:
+    - name: 新拟态风格
+      link: https://neumorphism.io/#e0e0e0
+      descr: 生成新拟态风格按钮并生成css
+    - name: MSDN
+      link: https://next.itellyou.cn/Original/
+      descr: windows操作系统下载
+    - name: 路过图床
+      link: https://unsplash.com/
+      descr: 高速稳定的图片上传和外链服务
+    - name: 熊猫图片压缩
+      link: https://tinypng.com/
+      descr: 热门的图片压缩工具
+    - name: Editor
+      link: https://pandao.github.io/editor.md/
+      descr: markdown编辑器
+    - name: Codepen
+      link: https://codepen.io/
+      descr: 网页前端可视化代码编辑器和平台
+    - name: 在线HTML转PUG工具
+      link: https://tooltt.com/html2pug/
+      descr: 将HTML对象转换成PUG格式,支持复制和下载.
+    - name: 在线css转less/sass/stylus工具
+      link: http://tools.jb51.net/code/css2less
+      descr: 多功能的css转less/sass/stylus工具
+
+- class_name: cdn
+  class_desc: 免费公益cdn
+  list_style: butterfly
+  link_list:
+    - name: 渺软公益 CDN
+      link: https://cdn.onmicrosoft.cn/
+      descr: 本项目的开发初衷是为了方便开发者使用静态的 js css 等文件
+    - name: 免费JSD镜像
+      link: https://tianli-blog.club/jsd/
+      descr: CDN免费开放，但是您需悉知CDN政策
+    - name: 7ed
+      link: https://www.7ed.net/#/raw-cdn
+      descr: 7ED Services为您提供便用的服务
+    - name: jsDelivr
+      link: https://www.jsdelivr.com/github
+      descr: jsDelivr 是一个免费、快速且可靠的开源 CDN
+
+

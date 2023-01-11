@@ -1,0 +1,37 @@
+# 范例
+#    - content: 终于把相册集搞定了, 耶✌️, 瀑布流在滑动滚动条一个视口范围上下100的情况执行一次, 到底部停止监听让性能高了好多，再也不会布局混乱🤪了
+#      date: 2022/10/25
+#      link: https://anzhiy.cn/album/
+#      image:
+#        - https://img02.anzhiy.cn/adminuploads/1/2022/10/23/6354ea92960ef.webp
+#      aplayer:
+#        server: tencent
+#        id: 001FGQba3i10mw
+#      from: 安知鱼
+- class_name: 即刻短文
+  essay_list:
+    - content: 终于把说说搞定了, 耶✌️,heo的不大方便，采用安知鱼大佬的方法！
+      date: 2023/1/8
+      link: /essay/
+      image:
+        - https://cdn2.tianli0.top/gh/timigomen/cdn/img/%E6%88%AA%E5%B1%8F2023-01-08%2011.00.58.png
+        - https://cdn2.tianli0.top/gh/timigomen/cdn/img/%E6%88%AA%E5%B1%8F2023-01-08%2011.01.46.png
+    - content: 我的博客独立主题啦！正式独立为GBTH，目前版本为1.0，因为源码太乱，不开源！
+      date: 2023/1/7
+      from: GB
+      image:
+        - https://cdn2.tianli0.top/gh/timigomen/cdn/img/%E6%88%AA%E5%B1%8F2023-01-08%2011.01.46.png
+    - content: 我发现我越来越洪化了！希望我可以坚持下去，开创一个新的流派！加油💪🏻ヾ(◍°∇°◍)ﾉﾞ
+      date: 2023/1/8
+      from: GB
+    - content: 评论换为twikoo，虽然twikoo的评论速度没waline快，但是各大博主都是twikoo，魔改教程也多
+      date: 2023/1/9
+      from: GB
+      image:
+        - https://bj.bcebos.com/baidu-rmb-video-cover-1/8f93fc8d7fbcce0b434fa9535aa683ba.png
+    - content: 终于修复了首页轮播图的超大bug，我马上出一篇文章，在这里很感谢Xlenco大佬教我！目前站点全面支持pjax！
+      date: 2023/1/10
+      link: https://inxlo.is-a.dev/
+      from: GB
+      image:
+        - https://s1.ax1x.com/2023/01/10/pSmPMqg.png
