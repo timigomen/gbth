@@ -55,5 +55,4 @@ jobs:
         git config --global user.email '3521614880@qq.com'
         git add .
         git commit -m "${{ github.event.head_commit.message }} Updated By Github Actions"
-        git pull --rebase origin main
         git push --force --quiet "https://timigomen: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@github.com/timigomen/timigomen.github.io.git" main:main
